@@ -55,6 +55,7 @@ Top-performing students in self-study hours showed minimal presence in high-dist
 
 High caffeine intake appeared linked to fatigue management rather than productivity enhancement, especially when viewed alongside sleep patterns
 
+
 Sleep distribution across academic levels was relatively balanced, but not optimal, hinting at widespread rest inefficiencies
 
 
@@ -70,3 +71,7 @@ Integrate real-time student data
 This project demonstrates that productivity is not simply a function of time available, but of how time is allocated. By analyzing student behavior through data, we can better understand the trade-offs between focus and distraction.
 
 Ultimately, the dashboard serves as both an analytical tool and a reflective framework—encouraging students, educators, and stakeholders to rethink how daily habits shape long-term outcomes.
+
+## Contribution
+Contributions, suggestions, and feedback are welcome!
+Feel free to fork the repo and submit a pull request.

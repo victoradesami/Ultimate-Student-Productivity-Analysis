@@ -2,9 +2,9 @@
 
 ## **Project Overview**
 
-In today’s digital-first environment, students are constantly balancing academic responsibilities with screen-based activities such as gaming and social media. This project was developed to analyze how students allocate their time across key areas—self-study, screen time, sleep, caffeine intake, and leisure—and to uncover patterns that influence overall productivity.
+This project explores student behavior through key variables such as self-study hours, screen time, gaming, sleep, caffeine intake, and social media usage.
 
-The Student Productivity Analysis Dashboard provides a data-driven view of these behaviors, transforming raw data into actionable insights.
+The goal is to move beyond raw numbers and provide meaningful insights into how daily habits impact overall productivity.
 
 
 ## Tools
@@ -57,6 +57,13 @@ High caffeine intake appeared linked to fatigue management rather than productiv
 
 Sleep distribution across academic levels was relatively balanced, but not optimal, hinting at widespread rest inefficiencies
 
+
+## Future Improvements
+
+Add predictive analytics (e.g., performance forecasting)
+Introduce time-series tracking for habit changes
+Build personalized productivity recommendations
+Integrate real-time student data
 
 ## Conclusion
 

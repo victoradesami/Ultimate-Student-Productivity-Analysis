@@ -1,8 +1,5 @@
 # Ultimate-Student-Productivity-Analysis
 
-# Ultimate Student Productivity Analysis
-
-
 ## **Project Overview**
 
 In today’s digital-first environment, students are constantly balancing academic responsibilities with screen-based activities such as gaming and social media. This project was developed to analyze how students allocate their time across key areas—self-study, screen time, sleep, caffeine intake, and leisure—and to uncover patterns that influence overall productivity.

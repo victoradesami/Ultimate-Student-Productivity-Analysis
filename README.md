@@ -1,5 +1,11 @@
 # Ultimate-Student-Productivity-Analysis
 
+
+![Adesami Victor Adebayo_VEPH50ADA087 project 2](https://github.com/user-attachments/assets/3450230e-f059-458f-97a6-dfc163933059)
+
+
+
+
 ## **Project Overview**
 
 This project explores student behavior through key variables such as self-study hours, screen time, gaming, sleep, caffeine intake, and social media usage.
